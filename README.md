@@ -17,3 +17,9 @@ class csnewcs {
 
 [![csnewcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnewcs&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+
+### 자격증(Credentials)
+
+|자격증(Credential)|발급기관(Organization)|취득일(Date)|
+|---|---|---|
+|리눅스마스터 2급|정보통신기술자격검정(KAIT)|2024.10.04|
