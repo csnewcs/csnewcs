@@ -2,7 +2,7 @@
 ```cs
 class csnewcs {
     string name = "배재현"; //Bae Jae Hyeon
-    DateTime birthDay = new DateTime(2005, 2, 15, 0, 0, 0); //19yo
+    DateTime birthDay = new DateTime(2005, 2, 15, 0, 0, 0); //20yo
     string school = "Gachon University";
     string majoring = "Cloud Engineering";
 }
