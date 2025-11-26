@@ -23,3 +23,4 @@ class csnewcs {
 |자격증(Credential)|발급기관(Organization)|취득일(Date)|
 |---|---|---|
 |리눅스마스터 2급|한국정보통신진흥협회(KAIT)|2024.10.04|
+|AWS Certified Cloud Practitioner|AWS|2025.11.26|
